@@ -1,0 +1,7 @@
+C:\Users\Claudio Fuentes\Desktop\proyecto 10\4 proyectos\proyectos personales\MenuInteractivo\MenuInteractivoConsola\bin\Debug\MenuInteractivoConsola.exe.config
+C:\Users\Claudio Fuentes\Desktop\proyecto 10\4 proyectos\proyectos personales\MenuInteractivo\MenuInteractivoConsola\bin\Debug\MenuInteractivoConsola.exe
+C:\Users\Claudio Fuentes\Desktop\proyecto 10\4 proyectos\proyectos personales\MenuInteractivo\MenuInteractivoConsola\bin\Debug\MenuInteractivoConsola.pdb
+C:\Users\Claudio Fuentes\Desktop\proyecto 10\4 proyectos\proyectos personales\MenuInteractivo\MenuInteractivoConsola\obj\Debug\MenuInteractivoConsola.csprojResolveAssemblyReference.cache
+C:\Users\Claudio Fuentes\Desktop\proyecto 10\4 proyectos\proyectos personales\MenuInteractivo\MenuInteractivoConsola\obj\Debug\MenuInteractivoConsola.csproj.CoreCompileInputs.cache
+C:\Users\Claudio Fuentes\Desktop\proyecto 10\4 proyectos\proyectos personales\MenuInteractivo\MenuInteractivoConsola\obj\Debug\MenuInteractivoConsola.exe
+C:\Users\Claudio Fuentes\Desktop\proyecto 10\4 proyectos\proyectos personales\MenuInteractivo\MenuInteractivoConsola\obj\Debug\MenuInteractivoConsola.pdb
